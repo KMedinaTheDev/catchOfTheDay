@@ -1,6 +1,6 @@
 # Catch Of The Day
 
-![App preview](../public/images/appPreview.png)
+![App preview](../images/appPreview.png)
 
 **This app allows the user to:**
 * Update an Order, update the fish on the Menu, update the Inventory and even change stores while having the ability to store the data that was already entered in a different store!
